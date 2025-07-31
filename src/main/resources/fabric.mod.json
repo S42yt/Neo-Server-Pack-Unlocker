@@ -9,9 +9,9 @@
     "TheMysterys"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/server-pack-unlocker",
-    "issues": "https://github.com/TheMysterys/Server-Pack-Unlocker/issues",
-    "sources": "https://github.com/TheMysterys/Server-Pack-Unlocker"
+    "homepage": "https://modrinth.com/mod/neo-server-pack-unlocker",
+    "issues": "https://github.com/S42yt/Neo-Server-Pack-Unlocker/issues",
+    "sources": "https://github.com/S42yt/Neo-Server-Pack-Unlocker"
   },
   "license": "Public Domain",
   "icon": "assets/nspu/icon.png",
