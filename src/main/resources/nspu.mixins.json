@@ -7,7 +7,7 @@
     "defaultRequire": 1
   },
   "mixins": [
-    "ResourcePackProfileMixin",
-    "ResourcePackSendS2CPacketMixin"
+    "tr.s42.spu.mixin.ResourcePackProfileMixin",
+    "tr.s42.spu.mixin.ResourcePackSendS2CPacketMixin"
   ]
 }
