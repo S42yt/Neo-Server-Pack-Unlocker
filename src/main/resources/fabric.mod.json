@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "spu",
+  "id": "nspu",
   "version": "${version}",
-  "name": "Server Pack Unlocker",
+  "name": "Neo Server Pack Unlocker",
   "description": "Allows resource packs provided by servers to be overridden and moved. This is useful for servers that force the client to use a resource pack.",
   "authors": [
+    "S42yt",
     "TheMysterys"
   ],
   "contact": {
@@ -13,12 +14,12 @@
     "sources": "https://github.com/TheMysterys/Server-Pack-Unlocker"
   },
   "license": "Public Domain",
-  "icon": "assets/spu/icon.png",
+  "icon": "assets/nspu/icon.png",
   "environment": "client",
   "mixins": [
-    "spu.mixins.json"
+    "nspu.mixins.json"
   ],
   "depends": {
-    "minecraft": ">=1.20.3"
+    "minecraft": ">=1.21.7"
   }
 }

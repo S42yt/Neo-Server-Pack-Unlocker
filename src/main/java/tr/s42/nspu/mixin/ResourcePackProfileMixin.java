@@ -1,4 +1,4 @@
-package com.themysterys.spu.mixin;
+package tr.s42.nspu.mixin;
 
 import com.llamalad7.mixinextras.injector.ModifyReturnValue;
 import net.minecraft.resource.ResourcePackProfile;
