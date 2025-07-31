@@ -1,13 +1,13 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.themysterys.spu.mixin",
-  "compatibilityLevel": "JAVA_8",
+  "package": "tr.s42.nspu.mixin",
+  "compatibilityLevel": "JAVA_21",
   "injectors": {
     "defaultRequire": 1
   },
   "mixins": [
-    "tr.s42.spu.mixin.ResourcePackProfileMixin",
-    "tr.s42.spu.mixin.ResourcePackSendS2CPacketMixin"
+    "ResourcePackProfileMixin",
+    "ResourcePackSendS2CPacketMixin"
   ]
 }
