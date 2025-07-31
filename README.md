@@ -7,4 +7,4 @@ Exactly as the title says, it allows resource packs provided by servers to be ov
 ![Settings](assets/settings.png)
 
 ## Pack Unlocked
-![Pack Unlocked](assets/pack_unlocked.png)
+![Pack Unlocked](assets/pack-unlocked.png)
